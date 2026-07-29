@@ -4,6 +4,14 @@
 
 This Python application is designed to run on a Raspberry Pi and utilizes a pre-trained TensorFlow Keras model to classify tomato images into three categories: Early Blight, Late Blight, and Healthy. The model has been trained to make predictions based on input images provided to it.
 
+## Key Capabilities
+
+- Automated image capture
+- Fast disease prediction
+- Simple command-line interface
+- Support for multiple tomato leaf classes
+- Easy deployment on Raspberry Pi
+  
 ## Prerequisites
 
 - Raspberry Pi with camera module
